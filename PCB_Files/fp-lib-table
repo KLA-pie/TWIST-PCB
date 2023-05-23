@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "74hc237Footprint")(type "KiCad")(uri "${KIPRJMOD}/74hc237Footprint.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/klieatjam/Downloads/LIB_74AHCT138D,118/74AHCT138D,118/KiCad.pretty")(options "")(descr ""))
+)
